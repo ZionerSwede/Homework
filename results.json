@@ -1,0 +1,19 @@
+{
+    "results": [
+        {
+            "person": "greta",
+            "correct_answers": 1,
+            "best_time": 3.76
+        },
+        {
+            "person": "marta",
+            "correct_answers": 2,
+            "best_time": 27.41
+        },
+        {
+            "person": "jonas",
+            "correct_answers": 1,
+            "best_time": 3.14
+        }
+    ]
+}
